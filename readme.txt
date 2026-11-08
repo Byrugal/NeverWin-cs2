@@ -1,0 +1,2 @@
+I’ve found the latest version of NewerWin—feel free to use it. It was originally in DLL format, but I’ve opted to provide a loader instead. If it shows that only CS:GO is available, don’t worry; just launch CS2 and click the "Inject" button in the loader while CS:GO is selected.
+GOOD LUCK
